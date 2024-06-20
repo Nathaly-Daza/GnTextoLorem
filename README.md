@@ -55,3 +55,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualq
 
 ## Visualización
 
+https://nathaly-daza.github.io/GnTextoLorem/
